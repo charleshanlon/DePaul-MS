@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+E:\School\Grad School\CSC 402-3 Data Structures\workspace\.metadata\.plugins\org.eclipse.jdt.core
+822876072.index
+2409349981.index
+1865797976.index
+4024574487.index
+3420953847.index
+1763681764.index

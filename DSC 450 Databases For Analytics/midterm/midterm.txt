@@ -1,0 +1,9 @@
+12, Josh Smith, Main St. Chicago, 2026, Calculus, 73.5, Mathematics, 4
+12, Josh Smith, Main St. Chicago, 2026, Databases, 90, Engineering, 4
+12, Josh Smith, Main St. Chicago, 2026, English, 99.8, Arts, 4
+16, Connor Joe, Main St. Pheonix, 2024, Databases, 89.82, Engineering, 4
+15, Miles Teller, Main St. Philadelphia, 2029, English, 90.2, Arts, 4
+24, Pete Law, Main St. New York, 2025, NULL, NULL, NULL, NULL
+19, Luke May, Main St. Detroit, 2024, Calculus, 100, Mathematics, 4
+19, Luke May, Main St. Detroit, 2024, English, 92.8, Arts, 4
+16, Connor Joe, Main St. Pheonix, 2024, Databases, 89.82, Engineering, 1
